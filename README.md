@@ -53,7 +53,12 @@ https://www.zhihu.com/question/271348514/answer/1298939935<br>
 我把我记得的面试内容都说下吧，有：中英文自我介绍、计算机二级考的什么语言（并延伸相关问题），我是C语言，所以当时问我“为什么C语言是一门底层语言”。然后问竞赛负责内容，并调一个竞赛让你大概解释原理。还挑了学得最好的一门课，然后问相关内容。我挑了计控，问的Smith预估控制。笔试部分不太熟悉，因为2020在家只能面试。  
 
 一些知乎自动化面试经历:  
-https://zhuanlan.zhihu.com/p/45652840 https://zhuanlan.zhihu.com/p/143564826 https://blog.csdn.net/hizcard/article/details/82714362 https://zhuanlan.zhihu.com/p/92689715 福州大学考研复试(可参考)https://zhuanlan.zhihu.com/p/104692906
+https://zhuanlan.zhihu.com/p/45652840  
+https://zhuanlan.zhihu.com/p/143564826  
+https://zhuanlan.zhihu.com/p/85594724  
+https://blog.csdn.net/hizcard/article/details/82714362  
+https://zhuanlan.zhihu.com/p/92689715  
+福州大学考研复试(可参考)https://zhuanlan.zhihu.com/p/104692906
 
 ## 在保研过程中参考的消息源：
 **本校推研政策发布及名单公布网页：**<br> http://zsjyc.ysu.edu.cn/ssszsxxw/zxxx.htm <br>
